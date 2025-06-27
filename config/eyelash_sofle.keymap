@@ -13,9 +13,9 @@
 #define COLEMAKDH 0
 // #define QWERTY    1
 // #define GAME      2
-#define NUM       1
-#define NAV       2
-#define SYMB      3
+#define NAV       1
+#define SYMB      2
+#define NUM       3
 #define FUNC      4
 
 / {
@@ -136,20 +136,6 @@
         //     display-name = "game";
         // };
 
-        // numpad layer for easy number
-        num {
-            bindings = <
-            &trans         &trans    &trans    &trans     &trans     &trans    &trans   &trans  &kp KP_NLCK  &kp KP_SLASH  &kp KP_MULTIPLY  &kp KP_MINUS  &trans
-            &to COLEMAKDH  &trans    &trans    &trans     &trans     &trans    &trans   &trans  &kp KP_N7    &kp KP_N8     &kp KP_N9        &kp KP_PLUS   &trans
-            &to QWERTY     &kp LALT  &kp LGUI  &kp LSHFT  &kp LCTRL  &trans    &trans   &trans  &kp KP_N4    &kp KP_N5     &kp KP_N6        &kp KP_PLUS   &trans
-            &to GAME       &trans    &trans    &trans     &trans     &trans    &trans   &trans  &kp KP_N1    &kp KP_N2     &kp KP_N3        &kp KP_ENTER  &trans
-            &trans         &trans    &trans    &trans     &trans     &trans    &trans   &trans  &kp BSPC     &kp KP_N0     &kp KP_N0        &kp KP_DOT
-            >;
-
-            display-name = "num";
-            sensor-bindings = <&scroll_encoder>;
-        };
-
         // navigation
         nav {
             bindings = <
@@ -176,6 +162,20 @@
 
             display-name = "symb";
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
+        };
+
+        // numpad layer for easy number
+        num {
+            bindings = <
+            &trans         &trans    &trans    &trans     &trans     &trans    &trans   &trans  &kp KP_NLCK  &kp KP_SLASH  &kp KP_MULTIPLY  &kp KP_MINUS  &trans
+            &to COLEMAKDH  &trans    &trans    &trans     &trans     &trans    &trans   &trans  &kp KP_N7    &kp KP_N8     &kp KP_N9        &kp KP_PLUS   &trans
+            &to QWERTY     &kp LALT  &kp LGUI  &kp LSHFT  &kp LCTRL  &trans    &trans   &trans  &kp KP_N4    &kp KP_N5     &kp KP_N6        &kp KP_PLUS   &trans
+            &to GAME       &trans    &trans    &trans     &trans     &trans    &trans   &trans  &kp KP_N1    &kp KP_N2     &kp KP_N3        &kp KP_ENTER  &trans
+            &trans         &trans    &trans    &trans     &trans     &trans    &trans   &trans  &kp BSPC     &kp KP_N0     &kp KP_N0        &kp KP_DOT
+            >;
+
+            display-name = "num";
+            sensor-bindings = <&scroll_encoder>;
         };
 
         // board functions and special portuguese (and other language) characters
