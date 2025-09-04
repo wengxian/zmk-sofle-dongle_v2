@@ -539,3 +539,7 @@ combos:
   o: 0.03
 - p: [25, 51]
   k: BT CLR ALL
+- p: [39, 51]
+  k: {t: '$$mdi:backup-restore$$', type: bootloader}
+- p: [0, 12]
+  k: $$mdi:progress-download$$
