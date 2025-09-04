@@ -63,7 +63,7 @@ layers:
   - {t: '$$mdi:backspace-reverse-outline$$', h: MEDIA}
   - {t: '$$mdi:backspace$$', h: SYMB}
   - {t: '$$mdi:keyboard-tab$$', h: MOUSE}
-  - $$mdi:apple-keyboard-control$$
+  - DIGIT
   - $$mdi:apple-keyboard-option$$
   GAME:
   - $$mdi:keyboard-esc$$
@@ -323,7 +323,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   MEDIA:
   - {t: '$$mdi:transfer$$', type: trans}
@@ -539,7 +539,3 @@ combos:
   o: 0.03
 - p: [25, 51]
   k: BT CLR ALL
-- p: [39, 51]
-  k: {t: '$$mdi:backup-restore$$', type: bootloader}
-- p: [0, 12]
-  k: $$mdi:progress-download$$
