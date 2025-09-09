@@ -178,6 +178,11 @@
             bindings = <&sys_reset>;
             key-positions = <39 51>;
         };
+
+        combo_l_reset {
+            bindings = <&sys_reset>;
+            key-positions = <39 44>;
+        };
     };
 
     macros {
