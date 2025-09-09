@@ -572,7 +572,7 @@
 &trans  &msc SCRL_UP       &msc SCRL_LEFT  &mmv MOVE_UP    &msc SCRL_RIGHT  &msc SCRL_DOWN    &kp DOWN   &macro_prev_tab  &mkp MB4        &msc SCRL_UP    &mkp MB5         &macro_zoom_in     &trans
 &trans  &macro_select_all  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &key_repeat       &kp LEFT   &macro_ctrl_n    &msc SCRL_LEFT  &msc SCRL_DOWN  &msc SCRL_RIGHT  &macro_zoom_reset  &trans
 &trans  &macro_undo        &macro_cut      &macro_copy     &macro_paste     &macro_redo       &kp RIGHT  &macro_next_tab  &mkp LCLK       &mkp MCLK       &mkp RCLK        &macro_zoom_out    &trans
-&trans  &trans             &trans          &mkp RCLK       &mkp MCLK        &mkp LCLK         &trans     &trans           &trans          &trans          &trans           &trans
+&trans  &trans             &trans          &mkp RCLK       &mkp LCLK        &mkp MCLK         &trans     &trans           &trans          &trans          &trans           &trans
             >;
 
             display-name = "MOUSE";
