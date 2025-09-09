@@ -168,21 +168,6 @@
             timeout-ms = <COMBO_DEFAULT_TIMEOUT_MS>;
             require-prior-idle-ms = <COMBO_PRIOR_IDLE_MS>;
         };
-
-        combo_bootloader {
-            bindings = <&bootloader>;
-            key-positions = <13 25>;
-        };
-
-        combo_reset {
-            bindings = <&sys_reset>;
-            key-positions = <39 51>;
-        };
-
-        combo_l_reset {
-            bindings = <&sys_reset>;
-            key-positions = <39 44>;
-        };
     };
 
     macros {
