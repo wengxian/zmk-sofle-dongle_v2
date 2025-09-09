@@ -757,6 +757,12 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="448" y="211" width="28" height="26" class="combo bootloader"/>
 <use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="453" y="215" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
 </g>
+<g class="combo bootloader combopos-10">
+<path d="M168,214 l-121,9" class="combo"/>
+<path d="M168,214 l121,-9" class="combo"/>
+<rect rx="6" ry="6" x="154" y="201" width="28" height="26" class="combo bootloader"/>
+<use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="159" y="205" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 388)" class="layer-GAME">
@@ -1162,6 +1168,12 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="448" y="211" width="28" height="26" class="combo bootloader"/>
 <use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="453" y="215" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
 </g>
+<g class="combo bootloader combopos-10">
+<path d="M168,214 l-121,9" class="combo"/>
+<path d="M168,214 l121,-9" class="combo"/>
+<rect rx="6" ry="6" x="154" y="201" width="28" height="26" class="combo bootloader"/>
+<use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="159" y="205" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 776)" class="layer-FKEY">
@@ -1550,6 +1562,12 @@ rect.held, rect.combo.held {
 <path d="M462,224 l415,0" class="combo"/>
 <rect rx="6" ry="6" x="448" y="211" width="28" height="26" class="combo bootloader"/>
 <use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="453" y="215" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
+</g>
+<g class="combo bootloader combopos-10">
+<path d="M168,214 l-121,9" class="combo"/>
+<path d="M168,214 l121,-9" class="combo"/>
+<rect rx="6" ry="6" x="154" y="201" width="28" height="26" class="combo bootloader"/>
+<use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="159" y="205" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
 </g>
 </g>
 </g>
@@ -1954,6 +1972,12 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="448" y="211" width="28" height="26" class="combo bootloader"/>
 <use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="453" y="215" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
 </g>
+<g class="combo bootloader combopos-10">
+<path d="M168,214 l-121,9" class="combo"/>
+<path d="M168,214 l121,-9" class="combo"/>
+<rect rx="6" ry="6" x="154" y="201" width="28" height="26" class="combo bootloader"/>
+<use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="159" y="205" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1553)" class="layer-DIGIT">
@@ -2355,6 +2379,12 @@ rect.held, rect.combo.held {
 <path d="M462,224 l415,0" class="combo"/>
 <rect rx="6" ry="6" x="448" y="211" width="28" height="26" class="combo bootloader"/>
 <use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="453" y="215" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
+</g>
+<g class="combo bootloader combopos-10">
+<path d="M168,214 l-121,9" class="combo"/>
+<path d="M168,214 l121,-9" class="combo"/>
+<rect rx="6" ry="6" x="154" y="201" width="28" height="26" class="combo bootloader"/>
+<use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="159" y="205" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
 </g>
 </g>
 </g>
@@ -2766,6 +2796,12 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="448" y="211" width="28" height="26" class="combo bootloader"/>
 <use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="453" y="215" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
 </g>
+<g class="combo bootloader combopos-10">
+<path d="M168,214 l-121,9" class="combo"/>
+<path d="M168,214 l121,-9" class="combo"/>
+<rect rx="6" ry="6" x="154" y="201" width="28" height="26" class="combo bootloader"/>
+<use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="159" y="205" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 2329)" class="layer-SYMB">
@@ -3161,6 +3197,12 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="448" y="211" width="28" height="26" class="combo bootloader"/>
 <use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="453" y="215" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
 </g>
+<g class="combo bootloader combopos-10">
+<path d="M168,214 l-121,9" class="combo"/>
+<path d="M168,214 l121,-9" class="combo"/>
+<rect rx="6" ry="6" x="154" y="201" width="28" height="26" class="combo bootloader"/>
+<use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="159" y="205" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 2718)" class="layer-MOUSE">
@@ -3554,6 +3596,12 @@ rect.held, rect.combo.held {
 <path d="M462,224 l415,0" class="combo"/>
 <rect rx="6" ry="6" x="448" y="211" width="28" height="26" class="combo bootloader"/>
 <use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="453" y="215" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
+</g>
+<g class="combo bootloader combopos-10">
+<path d="M168,214 l-121,9" class="combo"/>
+<path d="M168,214 l121,-9" class="combo"/>
+<rect rx="6" ry="6" x="154" y="201" width="28" height="26" class="combo bootloader"/>
+<use href="#mdi:backup-restore" xlink:href="#mdi:backup-restore" x="159" y="205" height="18" width="18.0" class="combo bootloader tap glyph mdi:backup-restore"/>
 </g>
 </g>
 </g>

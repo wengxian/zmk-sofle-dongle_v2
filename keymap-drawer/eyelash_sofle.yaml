@@ -543,3 +543,5 @@ combos:
   k: $$mdi:progress-download$$
 - p: [39, 51]
   k: {t: '$$mdi:backup-restore$$', type: bootloader}
+- p: [39, 44]
+  k: {t: '$$mdi:backup-restore$$', type: bootloader}
